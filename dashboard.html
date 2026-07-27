@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Job Discovery — Daily Board</title>
+<style>
+  :root {
+    --bg: #0d0f12;
+    --panel: #15181d;
+    --panel-border: #262a31;
+    --text: #e7e6e2;
+    --muted: #8b909a;
+    --signal: #5eead4;
+    --signal-dim: #2a4744;
+    --amber: #f0b429;
+    --amber-dim: #453722;
+    --gray-flag: #565c66;
+    --mono: "JetBrains Mono", "SFMono-Regular", Consolas, monospace;
+    --sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--sans);
+    padding: 32px 24px 80px;
+  }
+  header {
+    max-width: 1400px;
+    margin: 0 auto 28px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    gap: 16px;
+    border-bottom: 1px solid var(--panel-border);
+    padding-bottom: 20px;
+  }
+  .title-block .eyebrow {
+    font-family: var(--mono);
+    font-size: 12px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--signal);
+    margin-bottom: 6px;
+  }
+  h1 {
+    font-size: 28px;
+    margin: 0;
+    font-weight: 650;
+    letter-spacing: -0.01em;
+  }
+  .run-meta {
+    font-family: var(--mono);
+    font-size: 12px;
+    color: var(--muted);
+    text-align: right;
+    line-height: 1.7;
+  }
+  .stat-row {
+    max-width: 1400px;
+    margin: 0 auto 24px;
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+  .stat-card {
+    background: var(--panel);
+    border: 1px solid var(--panel-border);
+    border-radius: 8px;
+    padding: 14px 18px;
+    min-width: 140px;
+  }
+  .stat-card .num {
+    font-family: var(--mono);
+    font-size: 24px;
+    font-weight: 600;
+    color: var(--signal);
+  }
+  .stat-card .label {
+    font-size: 12px;
+    color: var(--muted);
+    margin-top: 2px;
+  }
+  .controls {
+    max-width: 1400px;
+    margin: 0 auto 20px;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .controls input, .controls select {
+    background: var(--panel);
+    border: 1px solid var(--panel-border);
+    color: var(--text);
+    border-radius: 6px;
+    padding: 8px 12px;
+    font-family: var(--sans);
+    font-size: 13px;
+  }
+  .controls input { flex: 1; min-width: 200px; }
+  table {
+    max-width: 1400px;
+    margin: 0 auto;
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13px;
+  }
+  thead th {
+    text-align: left;
+    font-family: var(--mono);
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--muted);
+    padding: 10px 12px;
+    border-bottom: 1px solid var(--panel-border);
+    cursor: pointer;
+    user-select: none;
+    white-space: nowrap;
+  }
+  thead th:hover { color: var(--text); }
+  tbody tr {
+    border-bottom: 1px solid var(--panel-border);
+  }
+  tbody tr:hover { background: var(--panel); }
+  tbody td {
+    padding: 12px;
+    vertical-align: top;
+  }
+  .company { font-weight: 600; }
+  .role-title { color: var(--text); }
+  .location { color: var(--muted); font-size: 12px; }
+  .badge {
+    display: inline-block;
+    font-family: var(--mono);
+    font-size: 11px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    white-space: nowrap;
+  }
+  .badge.india { background: var(--signal-dim); color: var(--signal); }
+  .badge.sponsor { background: var(--signal-dim); color: var(--signal); }
+  .badge.unclear { background: var(--amber-dim); color: var(--amber); }
+  .badge.no-sponsor { background: #3a2222; color: #e08585; }
+  .badge.gray { background: #24272d; color: var(--gray-flag); }
+  .skills { font-size: 11px; color: var(--muted); margin-top: 4px; }
+  .contact-line { font-family: var(--mono); font-size: 12px; }
+  .contact-line a { color: var(--signal); text-decoration: none; }
+  .contact-line a:hover { text-decoration: underline; }
+  .no-contact { color: var(--gray-flag); font-size: 12px; font-style: italic; }
+  a.job-link { color: var(--text); text-decoration: none; border-bottom: 1px dotted var(--muted); }
+  a.job-link:hover { color: var(--signal); border-bottom-color: var(--signal); }
+  .empty-state {
+    max-width: 1400px;
+    margin: 60px auto;
+    text-align: center;
+    color: var(--muted);
+    font-family: var(--mono);
+    font-size: 14px;
+    line-height: 1.8;
+  }
+  .li-link { color: var(--muted); font-size: 11px; }
+  .li-link a { color: var(--muted); }
+  .li-link a:hover { color: var(--signal); }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="title-block">
+    <div class="eyebrow">Job Discovery</div>
+    <h1>Daily Board</h1>
+  </div>
+  <div class="run-meta" id="run-meta">loading run info…</div>
+</header>
+
+<div class="stat-row" id="stat-row"></div>
+
+<div class="controls">
+  <input type="text" id="search" placeholder="Filter by company, role, or location…">
+  <select id="filter-country">
+    <option value="">All locations</option>
+  </select>
+  <select id="filter-contact">
+    <option value="">Any contact status</option>
+    <option value="has">Has direct contact info</option>
+    <option value="none">No direct contact found</option>
+  </select>
+</div>
+
+<table id="job-table">
+  <thead>
+    <tr>
+      <th data-key="company">Company</th>
+      <th data-key="title">Role</th>
+      <th data-key="country_match">Location / Signal</th>
+      <th data-key="matched_skills">Matched skills</th>
+      <th>Contact</th>
+      <th data-key="discovered_at">Discovered</th>
+      <th>Job post</th>
+    </tr>
+  </thead>
+  <tbody id="job-table-body"></tbody>
+</table>
+
+<div class="empty-state" id="empty-state" style="display:none;"></div>
+
+<script>
+let allJobs = [];
+let sortKey = "discovered_at";
+let sortDir = -1;
+
+function visaBadge(job) {
+  const signal = job.visa_signal || "";
+  const label = job.country_match || "";
+  if (signal === "india_no_visa_needed") return `<span class="badge india">India</span>`;
+  if (signal === "sponsor_mentioned") return `<span class="badge sponsor">${label} · sponsor mentioned</span>`;
+  if (signal === "no_sponsor_mentioned") return `<span class="badge no-sponsor">${label} · no sponsorship</span>`;
+  return `<span class="badge unclear">${label} · unclear</span>`;
+}
+
+function contactCell(job) {
+  const emails = job.contact_emails || [];
+  const phones = job.contact_phones || [];
+  let html = "";
+  if (emails.length || phones.length) {
+    emails.forEach(e => { html += `<div class="contact-line"><a href="mailto:${e}">${e}</a></div>`; });
+    phones.forEach(p => { html += `<div class="contact-line">${p}</div>`; });
+  } else {
+    html += `<div class="no-contact">no direct contact found</div>`;
+  }
+  if (job.linkedin_recruiter_search) {
+    html += `<div class="li-link"><a href="${job.linkedin_recruiter_search}" target="_blank" rel="noopener">check LinkedIn →</a></div>`;
+  }
+  return html;
+}
+
+function formatDate(iso) {
+  if (!iso) return "—";
+  const d = new Date(iso);
+  return d.toLocaleDateString(undefined, { month: "short", day: "numeric" }) + " " +
+         d.toLocaleTimeString(undefined, { hour: "2-digit", minute: "2-digit" });
+}
+
+function render() {
+  const search = document.getElementById("search").value.trim().toLowerCase();
+  const countryFilter = document.getElementById("filter-country").value;
+  const contactFilter = document.getElementById("filter-contact").value;
+
+  let filtered = allJobs.filter(job => {
+    if (search) {
+      const haystack = `${job.company} ${job.title} ${job.location}`.toLowerCase();
+      if (!haystack.includes(search)) return false;
+    }
+    if (countryFilter && job.country_match !== countryFilter) return false;
+    if (contactFilter === "has" && !job.has_named_contact) return false;
+    if (contactFilter === "none" && job.has_named_contact) return false;
+    return true;
+  });
+
+  filtered.sort((a, b) => {
+    const av = (a[sortKey] ?? "").toString().toLowerCase();
+    const bv = (b[sortKey] ?? "").toString().toLowerCase();
+    if (av < bv) return -1 * sortDir;
+    if (av > bv) return 1 * sortDir;
+    return 0;
+  });
+
+  const tbody = document.getElementById("job-table-body");
+  const emptyState = document.getElementById("empty-state");
+  const table = document.getElementById("job-table");
+
+  if (filtered.length === 0) {
+    table.style.display = "none";
+    emptyState.style.display = "block";
+    emptyState.textContent = allJobs.length === 0
+      ? "No jobs discovered yet. The dashboard will populate after the first scheduled run — or run scraper/main.py manually."
+      : "No jobs match the current filters.";
+    return;
+  }
+  table.style.display = "table";
+  emptyState.style.display = "none";
+
+  tbody.innerHTML = filtered.map(job => `
+    <tr>
+      <td class="company">${job.company || "—"}</td>
+      <td>
+        <div class="role-title">${job.title || "—"}</div>
+        <div class="location">${job.location || ""}</div>
+      </td>
+      <td>${visaBadge(job)}</td>
+      <td><div class="skills">${(job.matched_skills || []).join(", ") || "—"}</div></td>
+      <td>${contactCell(job)}</td>
+      <td class="contact-line">${formatDate(job.discovered_at)}</td>
+      <td>${job.job_url ? `<a class="job-link" href="${job.job_url}" target="_blank" rel="noopener">Open →</a>` : "—"}</td>
+    </tr>
+  `).join("");
+}
+
+function renderStats(runLog) {
+  const statRow = document.getElementById("stat-row");
+  const stats = [
+    { num: allJobs.length, label: "Matches today" },
+    { num: runLog.raw_jobs_fetched ?? "—", label: "Raw jobs scanned" },
+    { num: allJobs.filter(j => j.has_named_contact).length, label: "With direct contact" },
+    { num: runLog.broken_seed_entries ?? "—", label: "Broken seed entries" },
+  ];
+  statRow.innerHTML = stats.map(s => `
+    <div class="stat-card"><div class="num">${s.num}</div><div class="label">${s.label}</div></div>
+  `).join("");
+}
+
+function populateCountryFilter() {
+  const select = document.getElementById("filter-country");
+  const countries = [...new Set(allJobs.map(j => j.country_match).filter(Boolean))].sort();
+  countries.forEach(c => {
+    const opt = document.createElement("option");
+    opt.value = c; opt.textContent = c;
+    select.appendChild(opt);
+  });
+}
+
+async function init() {
+  try {
+    const [jobsRes, runLogRes] = await Promise.all([
+      fetch("data/jobs_today.json"),
+      fetch("data/run_log.json"),
+    ]);
+    allJobs = await jobsRes.json();
+    const runLog = await runLogRes.json();
+
+    document.getElementById("run-meta").innerHTML = runLog.run_finished
+      ? `Last run: ${formatDate(runLog.run_finished)}<br>${runLog.jobs_matched_filters ?? 0} matched filters`
+      : "No run recorded yet";
+
+    renderStats(runLog);
+    populateCountryFilter();
+    render();
+  } catch (e) {
+    document.getElementById("empty-state").style.display = "block";
+    document.getElementById("empty-state").textContent =
+      "Couldn't load data/jobs_today.json. If you're opening this file directly " +
+      "(file://), browsers block local fetch for security — run a tiny local " +
+      "server instead, e.g.: python -m http.server, then open localhost:8000/dashboard.html. " +
+      "On GitHub Pages this loads automatically.";
+  }
+}
+
+document.getElementById("search").addEventListener("input", render);
+document.getElementById("filter-country").addEventListener("change", render);
+document.getElementById("filter-contact").addEventListener("change", render);
+document.querySelectorAll("thead th[data-key]").forEach(th => {
+  th.addEventListener("click", () => {
+    const key = th.getAttribute("data-key");
+    if (sortKey === key) sortDir *= -1; else { sortKey = key; sortDir = 1; }
+    render();
+  });
+});
+
+init();
+</script>
+
+</body>
+</html>

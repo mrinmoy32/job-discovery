@@ -1,0 +1,33 @@
+{
+  "_readme": "Each entry maps a company to its ATS type + board token. The board token is the slug in that ATS's public job-board URL (see README.md 'Adding a company' section for how to find it). Tokens can go stale if a company migrates ATS or renames its board -- the scraper auto-flags any entry that 404s into data/broken_seed_entries.json so you know what to fix, instead of failing silently.",
+
+  "companies": [
+    { "name": "GitLab",        "ats": "greenhouse",     "token": "gitlab" },
+    { "name": "Stripe",        "ats": "greenhouse",     "token": "stripe" },
+    { "name": "Figma",         "ats": "greenhouse",     "token": "figma" },
+    { "name": "Robinhood",     "ats": "greenhouse",     "token": "robinhood" },
+    { "name": "DoorDash",      "ats": "greenhouse",     "token": "doordash" },
+    { "name": "Pinterest",     "ats": "greenhouse",     "token": "pinterest" },
+    { "name": "Coinbase",      "ats": "greenhouse",     "token": "coinbase" },
+    { "name": "Airbnb",        "ats": "greenhouse",     "token": "airbnb" },
+    { "name": "Affirm",        "ats": "greenhouse",     "token": "affirm" },
+    { "name": "Asana",         "ats": "greenhouse",     "token": "asana" },
+    { "name": "Discord",       "ats": "greenhouse",     "token": "discord" },
+    { "name": "Notion",        "ats": "greenhouse",     "token": "notion" },
+    { "name": "Reddit",        "ats": "greenhouse",     "token": "reddit" },
+    { "name": "Databricks",    "ats": "greenhouse",     "token": "databricks" },
+    { "name": "HashiCorp",     "ats": "greenhouse",     "token": "hashicorp" },
+
+    { "name": "Kraken",        "ats": "lever",          "token": "kraken" },
+    { "name": "Netlify",       "ats": "lever",          "token": "netlify" },
+    { "name": "Plaid",         "ats": "lever",          "token": "plaid" },
+    { "name": "Rippling",      "ats": "lever",          "token": "rippling" },
+
+    { "name": "Ashby",         "ats": "ashby",          "token": "ashbyhq" },
+    { "name": "Linear",        "ats": "ashby",          "token": "linear" },
+    { "name": "Vanta",         "ats": "ashby",          "token": "vanta" },
+
+    { "name": "Freshworks",    "ats": "smartrecruiters","token": "Freshworks" },
+    { "name": "Squarespace",   "ats": "smartrecruiters","token": "Squarespace" }
+  ]
+}

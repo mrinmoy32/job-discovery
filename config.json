@@ -1,0 +1,65 @@
+{
+  "profile": {
+    "roles": [
+      "Frontend Developer",
+      "Senior Frontend Developer",
+      "Full Stack Developer",
+      "Frontend Engineer",
+      "Full Stack Engineer",
+      "UI Engineer",
+      "React Developer"
+    ],
+    "min_yoe": 4,
+    "max_yoe": 8,
+    "skills": [
+      "React", "React.js", "Node.js", "JavaScript", "TypeScript",
+      "Redux", "Tailwind", "Material UI", "PostgreSQL"
+    ],
+    "min_skill_matches": 2,
+    "resume_gdrive_link": "https://drive.google.com/PASTE_YOUR_RESUME_LINK_HERE"
+  },
+
+  "countries": {
+    "india": {
+      "include": true,
+      "aliases": ["india", "bengaluru", "bangalore", "hyderabad", "pune", "gurgaon", "gurugram", "noida", "mumbai", "chennai", "remote india", "delhi ncr"]
+    },
+    "visa_sponsor_countries": [
+      "United States", "United Kingdom", "Canada", "Germany",
+      "Netherlands", "Ireland", "Singapore", "United Arab Emirates",
+      "Australia", "Sweden", "Switzerland", "France"
+    ],
+    "remote_global_counts_as_match": true
+  },
+
+  "company_filters": {
+    "min_employees": 500,
+    "exclude_companies": [],
+    "prioritize_companies": []
+  },
+
+  "sources": {
+    "greenhouse": true,
+    "lever": true,
+    "ashby": true,
+    "smartrecruiters": true,
+    "y_combinator_jobs": true,
+    "wellfound": true,
+    "indeed": false,
+    "linkedin": "manual_link_only"
+  },
+
+  "my_contacts": {
+    "name": "",
+    "email": "",
+    "phone": "",
+    "linkedin": "",
+    "portfolio": ""
+  },
+
+  "run_settings": {
+    "max_new_jobs_per_run": 200,
+    "seen_expiry_days": 7,
+    "request_delay_seconds": 1.5
+  }
+}
