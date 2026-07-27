@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "company": "DoorDash",
+    "ats": "greenhouse",
+    "token": "doordash",
+    "error": "404_not_found (token likely wrong or company left Greenhouse)"
+  },
+  {
+    "company": "Notion",
+    "ats": "greenhouse",
+    "token": "notion",
+    "error": "404_not_found (token likely wrong or company left Greenhouse)"
+  },
+  {
+    "company": "HashiCorp",
+    "ats": "greenhouse",
+    "token": "hashicorp",
+    "error": "404_not_found (token likely wrong or company left Greenhouse)"
+  },
+  {
+    "company": "Netlify",
+    "ats": "lever",
+    "token": "netlify",
+    "error": "404_not_found (token likely wrong or company left Lever)"
+  },
+  {
+    "company": "Rippling",
+    "ats": "lever",
+    "token": "rippling",
+    "error": "404_not_found (token likely wrong or company left Lever)"
+  },
+  {
+    "company": "Ashby",
+    "ats": "ashby",
+    "token": "ashbyhq",
+    "error": "404_not_found (token likely wrong or company left Ashby)"
+  }
+]
