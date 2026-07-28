@@ -59,7 +59,7 @@
 
   "run_settings": {
     "max_new_jobs_per_run": 200,
-    "seen_expiry_days": 7,
+    "seen_expiry_days": 0,
     "request_delay_seconds": 1.5
   }
 }
