@@ -19,7 +19,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Stripe",
-    "discovered_at": "2026-07-28T18:23:27.308881+00:00"
+    "discovered_at": "2026-07-28T18:31:57.882759+00:00"
   },
   {
     "source": "greenhouse",
@@ -42,7 +42,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
-    "discovered_at": "2026-07-28T18:23:27.308881+00:00"
+    "discovered_at": "2026-07-28T18:31:57.882759+00:00"
   },
   {
     "source": "greenhouse",
@@ -65,6 +65,6 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Databricks",
-    "discovered_at": "2026-07-28T18:23:27.308881+00:00"
+    "discovered_at": "2026-07-28T18:31:57.882759+00:00"
   }
 ]
