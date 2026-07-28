@@ -6,7 +6,7 @@
     { "name": "Stripe",        "ats": "greenhouse",     "token": "stripe" },
     { "name": "Figma",         "ats": "greenhouse",     "token": "figma" },
     { "name": "Robinhood",     "ats": "greenhouse",     "token": "robinhood" },
-    { "name": "DoorDash",      "ats": "greenhouse",     "token": "doordash" },
+    { "name": "DoorDash", "ats": "greenhouse", "token": "doordashusa" },
     { "name": "Pinterest",     "ats": "greenhouse",     "token": "pinterest" },
     { "name": "Coinbase",      "ats": "greenhouse",     "token": "coinbase" },
     { "name": "Airbnb",        "ats": "greenhouse",     "token": "airbnb" },
