@@ -66,5 +66,73 @@
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Databricks",
     "discovered_at": "2026-07-27T21:01:01.806909+00:00"
+  },
+  {
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Staff Full Stack Engineer, Identity",
+    "location": "Remote",
+    "job_url": "https://stripe.com/jobs/search?gh_jid=7895467",
+    "description_html": "",
+    "posted_at": "2026-07-27T11:17:30-04:00",
+    "external_id": "7895467",
+    "matched_skills": [
+      "React",
+      "TypeScript"
+    ],
+    "country_match": "Remote (unspecified)",
+    "visa_signal": "unclear",
+    "description_snippet": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies\u2014from the world's largest enterprises to the most ambitious startups\u2014use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means",
+    "contact_emails": [],
+    "contact_phones": [],
+    "has_named_contact": false,
+    "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Stripe",
+    "discovered_at": "2026-07-28T18:23:27.308881+00:00"
+  },
+  {
+    "source": "greenhouse",
+    "company": "Reddit",
+    "title": "Senior Frontend Engineer, Ads Creative",
+    "location": "Remote - United States",
+    "job_url": "https://job-boards.greenhouse.io/reddit/jobs/8082867",
+    "description_html": "",
+    "posted_at": "2026-07-27T20:22:48-04:00",
+    "external_id": "8082867",
+    "matched_skills": [
+      "React",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "country_match": "United States",
+    "visa_signal": "unclear",
+    "description_snippet": "<div class=\"content-intro\"><div class=\"c-message_kit__blocks c-message_kit__blocks--rich_text\"> <div class=\"c-message__message_blocks c-message__message_blocks--rich_text\" data-qa=\"message-text\"> <div class=\"p-block_kit_renderer\" data-qa=\"block-kit-renderer\"> <div class=\"p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first\"> <div class=\"p-rich_text_block\"> <div class=\"p-r",
+    "contact_emails": [],
+    "contact_phones": [],
+    "has_named_contact": false,
+    "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
+    "discovered_at": "2026-07-28T18:23:27.308881+00:00"
+  },
+  {
+    "source": "greenhouse",
+    "company": "Databricks",
+    "title": "Senior Software Frontend Engineer \u2013 Dashboards",
+    "location": "Vancouver, Canada",
+    "job_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8230883002",
+    "description_html": "",
+    "posted_at": "2026-07-24T19:28:50-04:00",
+    "external_id": "8230883002",
+    "matched_skills": [
+      "React",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "country_match": "Canada",
+    "visa_signal": "unclear",
+    "description_snippet": "<p>P-1443<br><br>At Databricks, we\u2019re passionate about enabling data teams to solve the world\u2019s toughest problems \u2014 from accelerating medical breakthroughs to building the next generation of intelligent products. We do this by creating the world\u2019s best <strong>Data Intelligence Platform</strong>, empowering customers to turn massive data into deep, actionable insights.</p> <p>Founded by engineers ",
+    "contact_emails": [],
+    "contact_phones": [],
+    "has_named_contact": false,
+    "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Databricks",
+    "discovered_at": "2026-07-28T18:23:27.308881+00:00"
   }
 ]
