@@ -1,11 +1,5 @@
 [
   {
-    "company": "DoorDash",
-    "ats": "greenhouse",
-    "token": "doordash",
-    "error": "404_not_found (token likely wrong or company left Greenhouse)"
-  },
-  {
     "company": "Notion",
     "ats": "greenhouse",
     "token": "notion",
