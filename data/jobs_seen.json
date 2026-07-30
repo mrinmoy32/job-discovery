@@ -1,8 +1,43 @@
 {
+  "calendly|senior full stack engineer, ai scheduling|remote - us": {
+    "company": "Calendly",
+    "last_seen": "2026-07-30T06:48:54.611100+00:00",
+    "title": "Senior Full Stack Engineer, AI Scheduling"
+  },
+  "calendly|senior full stack engineer, growth|remote - us": {
+    "company": "Calendly",
+    "last_seen": "2026-07-30T06:48:54.611100+00:00",
+    "title": "Senior Full Stack Engineer, Growth"
+  },
+  "databricks|full stack developer (ai agents)|bengaluru, india": {
+    "company": "Databricks",
+    "last_seen": "2026-07-30T06:48:54.611100+00:00",
+    "title": "Full Stack Developer (AI Agents)"
+  },
   "databricks|senior software frontend engineer \u2013 dashboards|vancouver, canada": {
     "company": "Databricks",
-    "last_seen": "2026-07-29T07:14:59.236173+00:00",
+    "last_seen": "2026-07-30T06:48:54.611100+00:00",
     "title": "Senior Software Frontend Engineer \u2013 Dashboards"
+  },
+  "intercom|senior full stack engineer - team web|dublin, ireland": {
+    "company": "Intercom",
+    "last_seen": "2026-07-30T06:48:54.611100+00:00",
+    "title": "Senior Full Stack Engineer - Team Web"
+  },
+  "okta|java full stack engineer, staff|bengaluru, india": {
+    "company": "Okta",
+    "last_seen": "2026-07-30T06:48:54.611100+00:00",
+    "title": "Java Full Stack Engineer, Staff"
+  },
+  "okta|staff full stack engineer|bellevue, washington; chicago, illinois; toronto, ontario, canada": {
+    "company": "Okta",
+    "last_seen": "2026-07-30T06:48:54.611100+00:00",
+    "title": "Staff Full Stack Engineer"
+  },
+  "postman|senior frontend engineer, observability|san francisco, california, united states": {
+    "company": "Postman",
+    "last_seen": "2026-07-30T06:48:54.611100+00:00",
+    "title": "Senior Frontend Engineer, Observability"
   },
   "reddit|senior frontend engineer, ads creative|remote - united states": {
     "company": "Reddit",
@@ -11,7 +46,7 @@
   },
   "stripe|staff full stack engineer, identity|remote": {
     "company": "Stripe",
-    "last_seen": "2026-07-29T07:14:59.236173+00:00",
+    "last_seen": "2026-07-30T06:48:54.611100+00:00",
     "title": "Staff Full Stack Engineer, Identity"
   }
 }
