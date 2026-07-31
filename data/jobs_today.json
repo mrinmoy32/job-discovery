@@ -19,7 +19,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Stripe",
-    "discovered_at": "2026-07-30T07:08:30.203526+00:00"
+    "discovered_at": "2026-07-31T07:20:42.088847+00:00"
   },
   {
     "source": "greenhouse",
@@ -42,7 +42,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Databricks",
-    "discovered_at": "2026-07-30T07:08:30.203526+00:00"
+    "discovered_at": "2026-07-31T07:20:42.088847+00:00"
   },
   {
     "source": "greenhouse",
@@ -65,7 +65,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Databricks",
-    "discovered_at": "2026-07-30T07:08:30.203526+00:00"
+    "discovered_at": "2026-07-31T07:20:42.088847+00:00"
   },
   {
     "source": "greenhouse",
@@ -74,7 +74,7 @@
     "location": "Bengaluru, India",
     "job_url": "https://www.okta.com/company/careers/opportunity/7831195?gh_jid=7831195",
     "description_html": "",
-    "posted_at": "2026-07-13T16:17:06-04:00",
+    "posted_at": "2026-07-30T15:55:59-04:00",
     "external_id": "7831195",
     "matched_skills": [
       "React",
@@ -90,7 +90,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Okta",
-    "discovered_at": "2026-07-30T07:08:30.203526+00:00"
+    "discovered_at": "2026-07-31T07:20:42.088847+00:00"
   },
   {
     "source": "greenhouse",
@@ -99,7 +99,7 @@
     "location": "Bellevue, Washington; Chicago, Illinois; Toronto, Ontario, Canada",
     "job_url": "https://www.okta.com/company/careers/opportunity/7695691?gh_jid=7695691",
     "description_html": "",
-    "posted_at": "2026-07-13T16:17:05-04:00",
+    "posted_at": "2026-07-30T14:31:43-04:00",
     "external_id": "7695691",
     "matched_skills": [
       "React",
@@ -113,7 +113,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Okta",
-    "discovered_at": "2026-07-30T07:08:30.203526+00:00"
+    "discovered_at": "2026-07-31T07:20:42.088847+00:00"
   },
   {
     "source": "greenhouse",
@@ -136,7 +136,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Intercom",
-    "discovered_at": "2026-07-30T07:08:30.203526+00:00"
+    "discovered_at": "2026-07-31T07:20:42.088847+00:00"
   },
   {
     "source": "greenhouse",
@@ -159,7 +159,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Postman",
-    "discovered_at": "2026-07-30T07:08:30.203526+00:00"
+    "discovered_at": "2026-07-31T07:20:42.088847+00:00"
   },
   {
     "source": "greenhouse",
@@ -183,7 +183,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Calendly",
-    "discovered_at": "2026-07-30T07:08:30.203526+00:00"
+    "discovered_at": "2026-07-31T07:20:42.088847+00:00"
   },
   {
     "source": "greenhouse",
@@ -206,6 +206,6 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Calendly",
-    "discovered_at": "2026-07-30T07:08:30.203526+00:00"
+    "discovered_at": "2026-07-31T07:20:42.088847+00:00"
   }
 ]
