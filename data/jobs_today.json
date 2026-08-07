@@ -6,7 +6,7 @@
     "location": "Remote",
     "job_url": "https://stripe.com/jobs/search?gh_jid=7895467",
     "description_html": "",
-    "posted_at": "2026-07-27T11:17:30-04:00",
+    "posted_at": "2026-08-06T17:57:22-04:00",
     "external_id": "7895467",
     "matched_skills": [
       "React",
@@ -19,7 +19,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Stripe",
-    "discovered_at": "2026-08-06T07:11:55.135470+00:00"
+    "discovered_at": "2026-08-07T05:55:32.431201+00:00"
   },
   {
     "source": "greenhouse",
@@ -42,7 +42,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
-    "discovered_at": "2026-08-06T07:11:55.135470+00:00"
+    "discovered_at": "2026-08-07T05:55:32.431201+00:00"
   },
   {
     "source": "greenhouse",
@@ -65,7 +65,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Databricks",
-    "discovered_at": "2026-08-06T07:11:55.135470+00:00"
+    "discovered_at": "2026-08-07T05:55:32.431201+00:00"
   },
   {
     "source": "greenhouse",
@@ -88,7 +88,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Databricks",
-    "discovered_at": "2026-08-06T07:11:55.135470+00:00"
+    "discovered_at": "2026-08-07T05:55:32.431201+00:00"
   },
   {
     "source": "greenhouse",
@@ -113,7 +113,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Okta",
-    "discovered_at": "2026-08-06T07:11:55.135470+00:00"
+    "discovered_at": "2026-08-07T05:55:32.431201+00:00"
   },
   {
     "source": "greenhouse",
@@ -136,7 +136,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Okta",
-    "discovered_at": "2026-08-06T07:11:55.135470+00:00"
+    "discovered_at": "2026-08-07T05:55:32.431201+00:00"
   },
   {
     "source": "greenhouse",
@@ -159,7 +159,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Intercom",
-    "discovered_at": "2026-08-06T07:11:55.135470+00:00"
+    "discovered_at": "2026-08-07T05:55:32.431201+00:00"
   },
   {
     "source": "greenhouse",
@@ -182,7 +182,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Postman",
-    "discovered_at": "2026-08-06T07:11:55.135470+00:00"
+    "discovered_at": "2026-08-07T05:55:32.431201+00:00"
   },
   {
     "source": "greenhouse",
@@ -206,7 +206,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Calendly",
-    "discovered_at": "2026-08-06T07:11:55.135470+00:00"
+    "discovered_at": "2026-08-07T05:55:32.431201+00:00"
   },
   {
     "source": "greenhouse",
@@ -229,6 +229,6 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Calendly",
-    "discovered_at": "2026-08-06T07:11:55.135470+00:00"
+    "discovered_at": "2026-08-07T05:55:32.431201+00:00"
   }
 ]
