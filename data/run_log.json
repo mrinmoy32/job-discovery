@@ -1,9 +1,9 @@
 {
-  "run_started": "2026-08-07T05:55:32.431201+00:00",
-  "run_finished": "2026-08-07T05:58:08.021771+00:00",
-  "raw_jobs_fetched": 7804,
-  "jobs_matched_filters": 10,
-  "new_jobs_shown_today": 10,
+  "run_started": "2026-08-08T05:13:29.774760+00:00",
+  "run_finished": "2026-08-08T05:16:11.654407+00:00",
+  "raw_jobs_fetched": 7833,
+  "jobs_matched_filters": 9,
+  "new_jobs_shown_today": 9,
   "broken_seed_entries": 33,
   "html_source_warnings": [
     {
@@ -12,7 +12,7 @@
     },
     {
       "source": "wellfound:full-stack-engineer",
-      "note": "http_403"
+      "note": "no_jobs_parsed (markup may have changed, or request was soft-blocked)"
     }
   ]
 }
