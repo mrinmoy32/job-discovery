@@ -1,6 +1,31 @@
 [
   {
     "source": "greenhouse",
+    "company": "Airbnb",
+    "title": "Senior Frontend Engineer, Agent Core Products ",
+    "location": "Remote, USA ",
+    "job_url": "https://careers.airbnb.com/positions/8127109?gh_jid=8127109",
+    "description_html": "",
+    "posted_at": "2026-08-12T21:11:49-04:00",
+    "external_id": "8127109",
+    "matched_skills": [
+      "React",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "country_match": "Remote (unspecified)",
+    "visa_signal": "unclear",
+    "description_snippet": "<div class=\"content-intro\"><p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\">Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possibl",
+    "contact_emails": [
+      "reasonableaccommodations@airbnb.com"
+    ],
+    "contact_phones": [],
+    "has_named_contact": true,
+    "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Airbnb",
+    "discovered_at": "2026-08-13T05:53:55.901522+00:00"
+  },
+  {
+    "source": "greenhouse",
     "company": "Databricks",
     "title": "Senior Software Frontend Engineer \u2013 Dashboards",
     "location": "Vancouver, Canada",
@@ -20,7 +45,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Databricks",
-    "discovered_at": "2026-08-12T05:52:38.185393+00:00"
+    "discovered_at": "2026-08-13T05:53:55.901522+00:00"
   },
   {
     "source": "greenhouse",
@@ -45,7 +70,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Okta",
-    "discovered_at": "2026-08-12T05:52:38.185393+00:00"
+    "discovered_at": "2026-08-13T05:53:55.901522+00:00"
   },
   {
     "source": "greenhouse",
@@ -68,7 +93,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Okta",
-    "discovered_at": "2026-08-12T05:52:38.185393+00:00"
+    "discovered_at": "2026-08-13T05:53:55.901522+00:00"
   },
   {
     "source": "greenhouse",
@@ -91,7 +116,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Intercom",
-    "discovered_at": "2026-08-12T05:52:38.185393+00:00"
+    "discovered_at": "2026-08-13T05:53:55.901522+00:00"
   },
   {
     "source": "greenhouse",
@@ -114,7 +139,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Postman",
-    "discovered_at": "2026-08-12T05:52:38.185393+00:00"
+    "discovered_at": "2026-08-13T05:53:55.901522+00:00"
   },
   {
     "source": "greenhouse",
@@ -138,7 +163,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Calendly",
-    "discovered_at": "2026-08-12T05:52:38.185393+00:00"
+    "discovered_at": "2026-08-13T05:53:55.901522+00:00"
   },
   {
     "source": "greenhouse",
@@ -161,6 +186,6 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Calendly",
-    "discovered_at": "2026-08-12T05:52:38.185393+00:00"
+    "discovered_at": "2026-08-13T05:53:55.901522+00:00"
   }
 ]
