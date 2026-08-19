@@ -54,6 +54,12 @@
     "error": "404_not_found (token likely wrong or company left Greenhouse)"
   },
   {
+    "company": "Samsara",
+    "ats": "greenhouse",
+    "token": "samsara",
+    "error": "request_failed: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)"
+  },
+  {
     "company": "ServiceTitan",
     "ats": "greenhouse",
     "token": "servicetitan",
