@@ -19,7 +19,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+GitLab",
-    "discovered_at": "2026-08-24T05:09:14.868294+00:00"
+    "discovered_at": "2026-08-25T05:02:02.726370+00:00"
   },
   {
     "source": "greenhouse",
@@ -42,30 +42,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
-    "discovered_at": "2026-08-24T05:09:14.868294+00:00"
-  },
-  {
-    "source": "greenhouse",
-    "company": "Databricks",
-    "title": "Full Stack Developer (AI Agents)",
-    "location": "Bengaluru, India",
-    "job_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8632126002",
-    "description_html": "",
-    "posted_at": "2026-08-22T09:21:54-04:00",
-    "external_id": "8632126002",
-    "matched_skills": [
-      "React",
-      "React.js",
-      "Node.js"
-    ],
-    "country_match": "India",
-    "visa_signal": "india_no_visa_needed",
-    "description_snippet": "<h3><strong>About the Role</strong></h3> <p>We are looking for a Senior Full Stack Developer to design, build, and deploy modern, scalable AI agents and applications that leverage Large Language Models (LLMs). This role requires a strong focus on end-to-end agent development, including building a high-performance React frontend, designing the agentic logic in Python, integrating with backend servi",
-    "contact_emails": [],
-    "contact_phones": [],
-    "has_named_contact": false,
-    "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Databricks",
-    "discovered_at": "2026-08-24T05:09:14.868294+00:00"
+    "discovered_at": "2026-08-25T05:02:02.726370+00:00"
   },
   {
     "source": "greenhouse",
@@ -88,7 +65,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Databricks",
-    "discovered_at": "2026-08-24T05:09:14.868294+00:00"
+    "discovered_at": "2026-08-25T05:02:02.726370+00:00"
   },
   {
     "source": "greenhouse",
@@ -111,7 +88,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Intercom",
-    "discovered_at": "2026-08-24T05:09:14.868294+00:00"
+    "discovered_at": "2026-08-25T05:02:02.726370+00:00"
   },
   {
     "source": "greenhouse",
@@ -134,7 +111,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Postman",
-    "discovered_at": "2026-08-24T05:09:14.868294+00:00"
+    "discovered_at": "2026-08-25T05:02:02.726370+00:00"
   },
   {
     "source": "greenhouse",
@@ -158,7 +135,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Calendly",
-    "discovered_at": "2026-08-24T05:09:14.868294+00:00"
+    "discovered_at": "2026-08-25T05:02:02.726370+00:00"
   },
   {
     "source": "greenhouse",
@@ -181,6 +158,6 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Calendly",
-    "discovered_at": "2026-08-24T05:09:14.868294+00:00"
+    "discovered_at": "2026-08-25T05:02:02.726370+00:00"
   }
 ]
