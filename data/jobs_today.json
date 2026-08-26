@@ -19,7 +19,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+GitLab",
-    "discovered_at": "2026-08-25T05:02:02.726370+00:00"
+    "discovered_at": "2026-08-26T05:02:56.489749+00:00"
   },
   {
     "source": "greenhouse",
@@ -42,7 +42,30 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
-    "discovered_at": "2026-08-25T05:02:02.726370+00:00"
+    "discovered_at": "2026-08-26T05:02:56.489749+00:00"
+  },
+  {
+    "source": "greenhouse",
+    "company": "Reddit",
+    "title": "Senior Frontend Engineer, Media",
+    "location": "Remote - United States",
+    "job_url": "https://job-boards.greenhouse.io/reddit/jobs/8120262",
+    "description_html": "",
+    "posted_at": "2026-08-25T18:30:56-04:00",
+    "external_id": "8120262",
+    "matched_skills": [
+      "React",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "country_match": "United States",
+    "visa_signal": "unclear",
+    "description_snippet": "<div class=\"content-intro\"><div class=\"c-message_kit__blocks c-message_kit__blocks--rich_text\"> <div class=\"c-message__message_blocks c-message__message_blocks--rich_text\" data-qa=\"message-text\"> <div class=\"p-block_kit_renderer\" data-qa=\"block-kit-renderer\"> <div class=\"p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first\"> <div class=\"p-rich_text_block\"> <div class=\"p-r",
+    "contact_emails": [],
+    "contact_phones": [],
+    "has_named_contact": false,
+    "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
+    "discovered_at": "2026-08-26T05:02:56.489749+00:00"
   },
   {
     "source": "greenhouse",
@@ -65,7 +88,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Databricks",
-    "discovered_at": "2026-08-25T05:02:02.726370+00:00"
+    "discovered_at": "2026-08-26T05:02:56.489749+00:00"
   },
   {
     "source": "greenhouse",
@@ -88,7 +111,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Intercom",
-    "discovered_at": "2026-08-25T05:02:02.726370+00:00"
+    "discovered_at": "2026-08-26T05:02:56.489749+00:00"
   },
   {
     "source": "greenhouse",
@@ -111,7 +134,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Postman",
-    "discovered_at": "2026-08-25T05:02:02.726370+00:00"
+    "discovered_at": "2026-08-26T05:02:56.489749+00:00"
   },
   {
     "source": "greenhouse",
@@ -135,7 +158,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Calendly",
-    "discovered_at": "2026-08-25T05:02:02.726370+00:00"
+    "discovered_at": "2026-08-26T05:02:56.489749+00:00"
   },
   {
     "source": "greenhouse",
@@ -158,6 +181,6 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Calendly",
-    "discovered_at": "2026-08-25T05:02:02.726370+00:00"
+    "discovered_at": "2026-08-26T05:02:56.489749+00:00"
   }
 ]
