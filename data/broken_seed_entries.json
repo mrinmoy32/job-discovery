@@ -24,6 +24,12 @@
     "error": "404_not_found (token likely wrong or company left Lever)"
   },
   {
+    "company": "Plaid",
+    "ats": "lever",
+    "token": "plaid",
+    "error": "404_not_found (token likely wrong or company left Lever)"
+  },
+  {
     "company": "Rippling",
     "ats": "lever",
     "token": "rippling",

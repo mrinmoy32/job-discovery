@@ -19,7 +19,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+GitLab",
-    "discovered_at": "2026-08-27T15:22:18.493734+00:00"
+    "discovered_at": "2026-08-28T16:46:11.001050+00:00"
   },
   {
     "source": "greenhouse",
@@ -42,7 +42,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
-    "discovered_at": "2026-08-27T15:22:18.493734+00:00"
+    "discovered_at": "2026-08-28T16:46:11.001050+00:00"
   },
   {
     "source": "greenhouse",
@@ -65,7 +65,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
-    "discovered_at": "2026-08-27T15:22:18.493734+00:00"
+    "discovered_at": "2026-08-28T16:46:11.001050+00:00"
   },
   {
     "source": "greenhouse",
@@ -74,7 +74,7 @@
     "location": "Bengaluru, India",
     "job_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8632126002",
     "description_html": "",
-    "posted_at": "2026-08-27T02:40:17-04:00",
+    "posted_at": "2026-08-28T00:46:26-04:00",
     "external_id": "8632126002",
     "matched_skills": [
       "React",
@@ -88,7 +88,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Databricks",
-    "discovered_at": "2026-08-27T15:22:18.493734+00:00"
+    "discovered_at": "2026-08-28T16:46:11.001050+00:00"
   },
   {
     "source": "greenhouse",
@@ -111,7 +111,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Databricks",
-    "discovered_at": "2026-08-27T15:22:18.493734+00:00"
+    "discovered_at": "2026-08-28T16:46:11.001050+00:00"
   },
   {
     "source": "greenhouse",
@@ -134,7 +134,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Intercom",
-    "discovered_at": "2026-08-27T15:22:18.493734+00:00"
+    "discovered_at": "2026-08-28T16:46:11.001050+00:00"
   },
   {
     "source": "greenhouse",
@@ -157,7 +157,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Postman",
-    "discovered_at": "2026-08-27T15:22:18.493734+00:00"
+    "discovered_at": "2026-08-28T16:46:11.001050+00:00"
   },
   {
     "source": "greenhouse",
@@ -181,7 +181,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Calendly",
-    "discovered_at": "2026-08-27T15:22:18.493734+00:00"
+    "discovered_at": "2026-08-28T16:46:11.001050+00:00"
   },
   {
     "source": "greenhouse",
@@ -204,6 +204,6 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Calendly",
-    "discovered_at": "2026-08-27T15:22:18.493734+00:00"
+    "discovered_at": "2026-08-28T16:46:11.001050+00:00"
   }
 ]
