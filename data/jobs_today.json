@@ -19,7 +19,29 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+GitLab",
-    "discovered_at": "2026-08-30T10:01:10.419935+00:00"
+    "discovered_at": "2026-08-31T11:00:45.697215+00:00"
+  },
+  {
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Full Stack Engineer, Growth",
+    "location": "Singapore",
+    "job_url": "https://stripe.com/jobs/search?gh_jid=7964956",
+    "description_html": "",
+    "posted_at": "2026-08-30T11:19:44-04:00",
+    "external_id": "7964956",
+    "matched_skills": [
+      "React",
+      "JavaScript"
+    ],
+    "country_match": "Singapore",
+    "visa_signal": "unclear",
+    "description_snippet": "<h2>Who we are</h2> <h3>About Stripe</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies\u2014from the world's largest enterprises to the most ambitious startups\u2014use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means",
+    "contact_emails": [],
+    "contact_phones": [],
+    "has_named_contact": false,
+    "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Stripe",
+    "discovered_at": "2026-08-31T11:00:45.697215+00:00"
   },
   {
     "source": "greenhouse",
@@ -42,7 +64,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
-    "discovered_at": "2026-08-30T10:01:10.419935+00:00"
+    "discovered_at": "2026-08-31T11:00:45.697215+00:00"
   },
   {
     "source": "greenhouse",
@@ -65,7 +87,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
-    "discovered_at": "2026-08-30T10:01:10.419935+00:00"
+    "discovered_at": "2026-08-31T11:00:45.697215+00:00"
   },
   {
     "source": "greenhouse",
@@ -88,7 +110,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Databricks",
-    "discovered_at": "2026-08-30T10:01:10.419935+00:00"
+    "discovered_at": "2026-08-31T11:00:45.697215+00:00"
   },
   {
     "source": "greenhouse",
@@ -111,7 +133,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Intercom",
-    "discovered_at": "2026-08-30T10:01:10.419935+00:00"
+    "discovered_at": "2026-08-31T11:00:45.697215+00:00"
   },
   {
     "source": "greenhouse",
@@ -134,7 +156,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Postman",
-    "discovered_at": "2026-08-30T10:01:10.419935+00:00"
+    "discovered_at": "2026-08-31T11:00:45.697215+00:00"
   },
   {
     "source": "greenhouse",
@@ -158,7 +180,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Calendly",
-    "discovered_at": "2026-08-30T10:01:10.419935+00:00"
+    "discovered_at": "2026-08-31T11:00:45.697215+00:00"
   },
   {
     "source": "greenhouse",
@@ -181,6 +203,6 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Calendly",
-    "discovered_at": "2026-08-30T10:01:10.419935+00:00"
+    "discovered_at": "2026-08-31T11:00:45.697215+00:00"
   }
 ]

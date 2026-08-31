@@ -6,12 +6,12 @@
   },
   "calendly|senior full stack engineer, ai scheduling|remote - us": {
     "company": "Calendly",
-    "last_seen": "2026-08-30T10:03:57.223967+00:00",
+    "last_seen": "2026-08-31T11:03:43.064239+00:00",
     "title": "Senior Full Stack Engineer, AI Scheduling"
   },
   "calendly|senior full stack engineer, growth|remote - us": {
     "company": "Calendly",
-    "last_seen": "2026-08-30T10:03:57.223967+00:00",
+    "last_seen": "2026-08-31T11:03:43.064239+00:00",
     "title": "Senior Full Stack Engineer, Growth"
   },
   "databricks|full stack developer (ai agents)|bengaluru, india": {
@@ -21,17 +21,17 @@
   },
   "databricks|senior software frontend engineer \u2013 dashboards|vancouver, canada": {
     "company": "Databricks",
-    "last_seen": "2026-08-30T10:03:57.223967+00:00",
+    "last_seen": "2026-08-31T11:03:43.064239+00:00",
     "title": "Senior Software Frontend Engineer \u2013 Dashboards"
   },
   "gitlab|senior frontend engineer (vue), create: repository management|remote, united kingdom": {
     "company": "GitLab",
-    "last_seen": "2026-08-30T10:03:57.223967+00:00",
+    "last_seen": "2026-08-31T11:03:43.064239+00:00",
     "title": "Senior Frontend Engineer (Vue), Create:  Repository Management "
   },
   "intercom|senior full stack engineer - team web|dublin, ireland": {
     "company": "Intercom",
-    "last_seen": "2026-08-30T10:03:57.223967+00:00",
+    "last_seen": "2026-08-31T11:03:43.064239+00:00",
     "title": "Senior Full Stack Engineer - Team Web"
   },
   "okta|java full stack engineer, staff|bengaluru, india": {
@@ -46,7 +46,7 @@
   },
   "postman|senior frontend engineer, observability|san francisco, california, united states": {
     "company": "Postman",
-    "last_seen": "2026-08-30T10:03:57.223967+00:00",
+    "last_seen": "2026-08-31T11:03:43.064239+00:00",
     "title": "Senior Frontend Engineer, Observability"
   },
   "reddit|frontend engineer iii, moderation enforcement|remote - united states": {
@@ -61,13 +61,18 @@
   },
   "reddit|senior frontend engineer, community builders|remote - united states": {
     "company": "Reddit",
-    "last_seen": "2026-08-30T10:03:57.223967+00:00",
+    "last_seen": "2026-08-31T11:03:43.064239+00:00",
     "title": "Senior Frontend Engineer, Community Builders"
   },
   "reddit|senior frontend engineer, media|remote - united states": {
     "company": "Reddit",
-    "last_seen": "2026-08-30T10:03:57.223967+00:00",
+    "last_seen": "2026-08-31T11:03:43.064239+00:00",
     "title": "Senior Frontend Engineer, Media"
+  },
+  "stripe|full stack engineer, growth|singapore": {
+    "company": "Stripe",
+    "last_seen": "2026-08-31T11:03:43.064239+00:00",
+    "title": "Full Stack Engineer, Growth"
   },
   "stripe|staff full stack engineer, identity|remote": {
     "company": "Stripe",
