@@ -3,7 +3,7 @@
     "company": "DoorDash",
     "ats": "greenhouse",
     "token": "doordash",
-    "error": "request_failed: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)"
+    "error": "404_not_found (token likely wrong or company left Greenhouse)"
   },
   {
     "company": "Notion",
