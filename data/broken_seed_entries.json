@@ -48,12 +48,6 @@
     "error": "404_not_found (token likely wrong or company left Greenhouse)"
   },
   {
-    "company": "Lyft",
-    "ats": "greenhouse",
-    "token": "lyft",
-    "error": "request_failed: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)"
-  },
-  {
     "company": "OpenAI",
     "ats": "greenhouse",
     "token": "openai",
@@ -81,7 +75,7 @@
     "company": "Zapier",
     "ats": "greenhouse",
     "token": "zapier",
-    "error": "404_not_found (token likely wrong or company left Greenhouse)"
+    "error": "request_failed: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)"
   },
   {
     "company": "Zendesk",
