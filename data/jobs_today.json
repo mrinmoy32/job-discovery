@@ -19,7 +19,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+GitLab",
-    "discovered_at": "2026-09-04T08:56:25.730256+00:00"
+    "discovered_at": "2026-09-05T08:27:18.941370+00:00"
   },
   {
     "source": "greenhouse",
@@ -28,7 +28,7 @@
     "location": "Singapore",
     "job_url": "https://stripe.com/jobs/search?gh_jid=7964956",
     "description_html": "",
-    "posted_at": "2026-09-02T01:44:10-04:00",
+    "posted_at": "2026-09-04T14:12:04-04:00",
     "external_id": "7964956",
     "matched_skills": [
       "React",
@@ -41,7 +41,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Stripe",
-    "discovered_at": "2026-09-04T08:56:25.730256+00:00"
+    "discovered_at": "2026-09-05T08:27:18.941370+00:00"
   },
   {
     "source": "greenhouse",
@@ -50,7 +50,7 @@
     "location": "Remote - United States",
     "job_url": "https://job-boards.greenhouse.io/reddit/jobs/8175520",
     "description_html": "",
-    "posted_at": "2026-09-03T20:07:27-04:00",
+    "posted_at": "2026-09-04T20:29:22-04:00",
     "external_id": "8175520",
     "matched_skills": [
       "React",
@@ -64,7 +64,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
-    "discovered_at": "2026-09-04T08:56:25.730256+00:00"
+    "discovered_at": "2026-09-05T08:27:18.941370+00:00"
   },
   {
     "source": "greenhouse",
@@ -87,7 +87,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
-    "discovered_at": "2026-09-04T08:56:25.730256+00:00"
+    "discovered_at": "2026-09-05T08:27:18.941370+00:00"
   },
   {
     "source": "greenhouse",
@@ -110,7 +110,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
-    "discovered_at": "2026-09-04T08:56:25.730256+00:00"
+    "discovered_at": "2026-09-05T08:27:18.941370+00:00"
   },
   {
     "source": "greenhouse",
@@ -133,7 +133,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Databricks",
-    "discovered_at": "2026-09-04T08:56:25.730256+00:00"
+    "discovered_at": "2026-09-05T08:27:18.941370+00:00"
   },
   {
     "source": "greenhouse",
@@ -156,7 +156,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Databricks",
-    "discovered_at": "2026-09-04T08:56:25.730256+00:00"
+    "discovered_at": "2026-09-05T08:27:18.941370+00:00"
   },
   {
     "source": "greenhouse",
@@ -179,7 +179,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Intercom",
-    "discovered_at": "2026-09-04T08:56:25.730256+00:00"
+    "discovered_at": "2026-09-05T08:27:18.941370+00:00"
   },
   {
     "source": "greenhouse",
@@ -202,7 +202,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Postman",
-    "discovered_at": "2026-09-04T08:56:25.730256+00:00"
+    "discovered_at": "2026-09-05T08:27:18.941370+00:00"
   },
   {
     "source": "greenhouse",
@@ -226,7 +226,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Calendly",
-    "discovered_at": "2026-09-04T08:56:25.730256+00:00"
+    "discovered_at": "2026-09-05T08:27:18.941370+00:00"
   },
   {
     "source": "greenhouse",
@@ -249,6 +249,6 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Calendly",
-    "discovered_at": "2026-09-04T08:56:25.730256+00:00"
+    "discovered_at": "2026-09-05T08:27:18.941370+00:00"
   }
 ]
