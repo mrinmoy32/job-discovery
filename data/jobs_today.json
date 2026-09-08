@@ -19,7 +19,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+GitLab",
-    "discovered_at": "2026-09-07T09:32:04.896314+00:00"
+    "discovered_at": "2026-09-08T08:57:27.459435+00:00"
   },
   {
     "source": "greenhouse",
@@ -41,7 +41,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Stripe",
-    "discovered_at": "2026-09-07T09:32:04.896314+00:00"
+    "discovered_at": "2026-09-08T08:57:27.459435+00:00"
   },
   {
     "source": "greenhouse",
@@ -50,7 +50,7 @@
     "location": "Remote - United States",
     "job_url": "https://job-boards.greenhouse.io/reddit/jobs/8175520",
     "description_html": "",
-    "posted_at": "2026-09-06T20:08:38-04:00",
+    "posted_at": "2026-09-07T20:10:28-04:00",
     "external_id": "8175520",
     "matched_skills": [
       "React",
@@ -64,7 +64,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
-    "discovered_at": "2026-09-07T09:32:04.896314+00:00"
+    "discovered_at": "2026-09-08T08:57:27.459435+00:00"
   },
   {
     "source": "greenhouse",
@@ -87,7 +87,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
-    "discovered_at": "2026-09-07T09:32:04.896314+00:00"
+    "discovered_at": "2026-09-08T08:57:27.459435+00:00"
   },
   {
     "source": "greenhouse",
@@ -110,7 +110,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
-    "discovered_at": "2026-09-07T09:32:04.896314+00:00"
+    "discovered_at": "2026-09-08T08:57:27.459435+00:00"
   },
   {
     "source": "greenhouse",
@@ -133,7 +133,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Databricks",
-    "discovered_at": "2026-09-07T09:32:04.896314+00:00"
+    "discovered_at": "2026-09-08T08:57:27.459435+00:00"
   },
   {
     "source": "greenhouse",
@@ -156,7 +156,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Databricks",
-    "discovered_at": "2026-09-07T09:32:04.896314+00:00"
+    "discovered_at": "2026-09-08T08:57:27.459435+00:00"
   },
   {
     "source": "greenhouse",
@@ -179,30 +179,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Intercom",
-    "discovered_at": "2026-09-07T09:32:04.896314+00:00"
-  },
-  {
-    "source": "greenhouse",
-    "company": "Postman",
-    "title": "Senior Frontend Engineer, Observability",
-    "location": "San Francisco, California, United States",
-    "job_url": "https://job-boards.greenhouse.io/postman/jobs/7790859003",
-    "description_html": "",
-    "posted_at": "2026-08-17T18:15:55-04:00",
-    "external_id": "7790859003",
-    "matched_skills": [
-      "React",
-      "JavaScript",
-      "TypeScript"
-    ],
-    "country_match": "United States",
-    "visa_signal": "unclear",
-    "description_snippet": "<div class=\"content-intro\"><h2><strong>Who Are We?</strong></h2> <p>Postman is the world\u2019s leading API platform, used by more than 45 million+ developers and 500,000 organizations, including 98% of the Fortune 500. Postman is helping developers and professionals across the globe build the API-first world by simplifying each step of the API lifecycle and streamlining collaboration\u2014enabling users to",
-    "contact_emails": [],
-    "contact_phones": [],
-    "has_named_contact": false,
-    "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Postman",
-    "discovered_at": "2026-09-07T09:32:04.896314+00:00"
+    "discovered_at": "2026-09-08T08:57:27.459435+00:00"
   },
   {
     "source": "greenhouse",
@@ -226,7 +203,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Calendly",
-    "discovered_at": "2026-09-07T09:32:04.896314+00:00"
+    "discovered_at": "2026-09-08T08:57:27.459435+00:00"
   },
   {
     "source": "greenhouse",
@@ -249,6 +226,30 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Calendly",
-    "discovered_at": "2026-09-07T09:32:04.896314+00:00"
+    "discovered_at": "2026-09-08T08:57:27.459435+00:00"
+  },
+  {
+    "source": "greenhouse",
+    "company": "Typeform",
+    "title": "Full Stack Developer ",
+    "location": "Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote) ",
+    "job_url": "https://job-boards.greenhouse.io/typeform/jobs/7942504",
+    "description_html": "",
+    "posted_at": "2026-09-07T06:28:08-04:00",
+    "external_id": "7942504",
+    "matched_skills": [
+      "React",
+      "Node.js",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "country_match": "United Kingdom",
+    "visa_signal": "unclear",
+    "description_snippet": "<div class=\"content-intro\"><h3>Who we are</h3> <p>Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year\u2014and integrates with essential tools like Slack, Zapier, and Hubspot.</p></div><h",
+    "contact_emails": [],
+    "contact_phones": [],
+    "has_named_contact": false,
+    "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Typeform",
+    "discovered_at": "2026-09-08T08:57:27.459435+00:00"
   }
 ]
