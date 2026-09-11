@@ -19,7 +19,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+GitLab",
-    "discovered_at": "2026-09-10T09:02:19.334542+00:00"
+    "discovered_at": "2026-09-11T08:59:56.350627+00:00"
   },
   {
     "source": "greenhouse",
@@ -28,7 +28,7 @@
     "location": "Singapore",
     "job_url": "https://stripe.com/jobs/search?gh_jid=7964956",
     "description_html": "",
-    "posted_at": "2026-09-04T14:12:04-04:00",
+    "posted_at": "2026-09-10T13:11:58-04:00",
     "external_id": "7964956",
     "matched_skills": [
       "React",
@@ -41,7 +41,30 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Stripe",
-    "discovered_at": "2026-09-10T09:02:19.334542+00:00"
+    "discovered_at": "2026-09-11T08:59:56.350627+00:00"
+  },
+  {
+    "source": "greenhouse",
+    "company": "Reddit",
+    "title": "Frontend Engineer, Ads",
+    "location": "Remote - United States",
+    "job_url": "https://job-boards.greenhouse.io/reddit/jobs/8194576",
+    "description_html": "",
+    "posted_at": "2026-09-11T00:36:55-04:00",
+    "external_id": "8194576",
+    "matched_skills": [
+      "React",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "country_match": "United States",
+    "visa_signal": "unclear",
+    "description_snippet": "<div class=\"content-intro\"><div class=\"c-message_kit__blocks c-message_kit__blocks--rich_text\"> <div class=\"c-message__message_blocks c-message__message_blocks--rich_text\" data-qa=\"message-text\"> <div class=\"p-block_kit_renderer\" data-qa=\"block-kit-renderer\"> <div class=\"p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first\"> <div class=\"p-rich_text_block\"> <div class=\"p-r",
+    "contact_emails": [],
+    "contact_phones": [],
+    "has_named_contact": false,
+    "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
+    "discovered_at": "2026-09-11T08:59:56.350627+00:00"
   },
   {
     "source": "greenhouse",
@@ -50,7 +73,7 @@
     "location": "Remote - United States",
     "job_url": "https://job-boards.greenhouse.io/reddit/jobs/8175520",
     "description_html": "",
-    "posted_at": "2026-09-09T20:17:00-04:00",
+    "posted_at": "2026-09-10T20:07:27-04:00",
     "external_id": "8175520",
     "matched_skills": [
       "React",
@@ -64,30 +87,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
-    "discovered_at": "2026-09-10T09:02:19.334542+00:00"
-  },
-  {
-    "source": "greenhouse",
-    "company": "Reddit",
-    "title": "Senior Frontend Engineer, Community Builders",
-    "location": "Remote - United States",
-    "job_url": "https://job-boards.greenhouse.io/reddit/jobs/7955200",
-    "description_html": "",
-    "posted_at": "2026-08-20T12:27:49-04:00",
-    "external_id": "7955200",
-    "matched_skills": [
-      "React",
-      "JavaScript",
-      "TypeScript"
-    ],
-    "country_match": "United States",
-    "visa_signal": "unclear",
-    "description_snippet": "<div class=\"content-intro\"><div class=\"c-message_kit__blocks c-message_kit__blocks--rich_text\"> <div class=\"c-message__message_blocks c-message__message_blocks--rich_text\" data-qa=\"message-text\"> <div class=\"p-block_kit_renderer\" data-qa=\"block-kit-renderer\"> <div class=\"p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first\"> <div class=\"p-rich_text_block\"> <div class=\"p-r",
-    "contact_emails": [],
-    "contact_phones": [],
-    "has_named_contact": false,
-    "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
-    "discovered_at": "2026-09-10T09:02:19.334542+00:00"
+    "discovered_at": "2026-09-11T08:59:56.350627+00:00"
   },
   {
     "source": "greenhouse",
@@ -110,7 +110,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
-    "discovered_at": "2026-09-10T09:02:19.334542+00:00"
+    "discovered_at": "2026-09-11T08:59:56.350627+00:00"
   },
   {
     "source": "greenhouse",
@@ -133,7 +133,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Databricks",
-    "discovered_at": "2026-09-10T09:02:19.334542+00:00"
+    "discovered_at": "2026-09-11T08:59:56.350627+00:00"
   },
   {
     "source": "greenhouse",
@@ -156,7 +156,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Databricks",
-    "discovered_at": "2026-09-10T09:02:19.334542+00:00"
+    "discovered_at": "2026-09-11T08:59:56.350627+00:00"
   },
   {
     "source": "greenhouse",
@@ -179,7 +179,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Databricks",
-    "discovered_at": "2026-09-10T09:02:19.334542+00:00"
+    "discovered_at": "2026-09-11T08:59:56.350627+00:00"
   },
   {
     "source": "greenhouse",
@@ -188,7 +188,7 @@
     "location": "Dublin, Ireland",
     "job_url": "https://job-boards.greenhouse.io/intercom/jobs/7274831",
     "description_html": "",
-    "posted_at": "2026-09-08T16:11:58-04:00",
+    "posted_at": "2026-09-10T17:43:22-04:00",
     "external_id": "7274831",
     "matched_skills": [
       "React",
@@ -197,12 +197,12 @@
     ],
     "country_match": "Ireland",
     "visa_signal": "unclear",
-    "description_snippet": "<div class=\"content-intro\"><p><a href=\"https://fin.ai/\">Fin</a> is the AI Customer Agent company on a mission to help businesses provide perfect customer experiences.</p> <p>Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support across the customer journey \u2013 from service, to sales, to ecommerce. Powere",
+    "description_snippet": "<div class=\"content-intro\"><p><a href=\"https://fin.ai/\">Fin</a>, now part of Salesforce, is on a mission to help businesses provide perfect customer experiences.</p> <p>Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support across the customer journey, from service, to sales, to ecommerce. Powered by o",
     "contact_emails": [],
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Intercom",
-    "discovered_at": "2026-09-10T09:02:19.334542+00:00"
+    "discovered_at": "2026-09-11T08:59:56.350627+00:00"
   },
   {
     "source": "greenhouse",
@@ -226,7 +226,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Calendly",
-    "discovered_at": "2026-09-10T09:02:19.334542+00:00"
+    "discovered_at": "2026-09-11T08:59:56.350627+00:00"
   },
   {
     "source": "greenhouse",
@@ -249,7 +249,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Calendly",
-    "discovered_at": "2026-09-10T09:02:19.334542+00:00"
+    "discovered_at": "2026-09-11T08:59:56.350627+00:00"
   },
   {
     "source": "greenhouse",
@@ -273,6 +273,6 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Typeform",
-    "discovered_at": "2026-09-10T09:02:19.334542+00:00"
+    "discovered_at": "2026-09-11T08:59:56.350627+00:00"
   }
 ]
