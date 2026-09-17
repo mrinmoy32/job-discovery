@@ -19,7 +19,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+GitLab",
-    "discovered_at": "2026-09-16T09:23:48.581262+00:00"
+    "discovered_at": "2026-09-17T09:33:33.633795+00:00"
   },
   {
     "source": "greenhouse",
@@ -41,7 +41,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Stripe",
-    "discovered_at": "2026-09-16T09:23:48.581262+00:00"
+    "discovered_at": "2026-09-17T09:33:33.633795+00:00"
   },
   {
     "source": "greenhouse",
@@ -50,7 +50,7 @@
     "location": "Remote - United States",
     "job_url": "https://job-boards.greenhouse.io/reddit/jobs/8194576",
     "description_html": "",
-    "posted_at": "2026-09-15T20:14:46-04:00",
+    "posted_at": "2026-09-16T20:16:50-04:00",
     "external_id": "8194576",
     "matched_skills": [
       "React",
@@ -64,7 +64,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
-    "discovered_at": "2026-09-16T09:23:48.581262+00:00"
+    "discovered_at": "2026-09-17T09:33:33.633795+00:00"
   },
   {
     "source": "greenhouse",
@@ -73,7 +73,7 @@
     "location": "Remote - United States",
     "job_url": "https://job-boards.greenhouse.io/reddit/jobs/8175520",
     "description_html": "",
-    "posted_at": "2026-09-15T20:14:49-04:00",
+    "posted_at": "2026-09-16T20:16:51-04:00",
     "external_id": "8175520",
     "matched_skills": [
       "React",
@@ -87,7 +87,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
-    "discovered_at": "2026-09-16T09:23:48.581262+00:00"
+    "discovered_at": "2026-09-17T09:33:33.633795+00:00"
   },
   {
     "source": "greenhouse",
@@ -110,7 +110,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
-    "discovered_at": "2026-09-16T09:23:48.581262+00:00"
+    "discovered_at": "2026-09-17T09:33:33.633795+00:00"
   },
   {
     "source": "greenhouse",
@@ -133,7 +133,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Databricks",
-    "discovered_at": "2026-09-16T09:23:48.581262+00:00"
+    "discovered_at": "2026-09-17T09:33:33.633795+00:00"
   },
   {
     "source": "greenhouse",
@@ -156,7 +156,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Databricks",
-    "discovered_at": "2026-09-16T09:23:48.581262+00:00"
+    "discovered_at": "2026-09-17T09:33:33.633795+00:00"
   },
   {
     "source": "greenhouse",
@@ -179,7 +179,29 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Databricks",
-    "discovered_at": "2026-09-16T09:23:48.581262+00:00"
+    "discovered_at": "2026-09-17T09:33:33.633795+00:00"
+  },
+  {
+    "source": "greenhouse",
+    "company": "Okta",
+    "title": "Staff Frontend Engineer, SecureAI ",
+    "location": "Toronto, Ontario, Canada",
+    "job_url": "https://www.okta.com/company/careers/opportunity/8208369?gh_jid=8208369",
+    "description_html": "",
+    "posted_at": "2026-09-16T18:31:03-04:00",
+    "external_id": "8208369",
+    "matched_skills": [
+      "React",
+      "JavaScript"
+    ],
+    "country_match": "Canada",
+    "visa_signal": "unclear",
+    "description_snippet": "<div class=\"content-intro\"><p><strong>Secure Every Identity, from AI to Human<br><br></strong>Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners ",
+    "contact_emails": [],
+    "contact_phones": [],
+    "has_named_contact": false,
+    "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Okta",
+    "discovered_at": "2026-09-17T09:33:33.633795+00:00"
   },
   {
     "source": "greenhouse",
@@ -188,7 +210,7 @@
     "location": "Dublin, Ireland",
     "job_url": "https://job-boards.greenhouse.io/intercom/jobs/7274831",
     "description_html": "",
-    "posted_at": "2026-09-10T17:43:22-04:00",
+    "posted_at": "2026-09-16T13:43:48-04:00",
     "external_id": "7274831",
     "matched_skills": [
       "React",
@@ -202,7 +224,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Intercom",
-    "discovered_at": "2026-09-16T09:23:48.581262+00:00"
+    "discovered_at": "2026-09-17T09:33:33.633795+00:00"
   },
   {
     "source": "greenhouse",
@@ -226,7 +248,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Calendly",
-    "discovered_at": "2026-09-16T09:23:48.581262+00:00"
+    "discovered_at": "2026-09-17T09:33:33.633795+00:00"
   },
   {
     "source": "greenhouse",
@@ -249,7 +271,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Calendly",
-    "discovered_at": "2026-09-16T09:23:48.581262+00:00"
+    "discovered_at": "2026-09-17T09:33:33.633795+00:00"
   },
   {
     "source": "greenhouse",
@@ -273,6 +295,6 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Typeform",
-    "discovered_at": "2026-09-16T09:23:48.581262+00:00"
+    "discovered_at": "2026-09-17T09:33:33.633795+00:00"
   }
 ]

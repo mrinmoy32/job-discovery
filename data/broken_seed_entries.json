@@ -54,6 +54,12 @@
     "error": "404_not_found (token likely wrong or company left Greenhouse)"
   },
   {
+    "company": "Postman",
+    "ats": "greenhouse",
+    "token": "postman",
+    "error": "404_not_found (token likely wrong or company left Greenhouse)"
+  },
+  {
     "company": "Ramp",
     "ats": "greenhouse",
     "token": "ramp",
