@@ -42,12 +42,6 @@
     "error": "404_not_found (token likely wrong or company left Ashby)"
   },
   {
-    "company": "Brex",
-    "ats": "greenhouse",
-    "token": "brex",
-    "error": "request_failed: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)"
-  },
-  {
     "company": "Confluent",
     "ats": "greenhouse",
     "token": "confluentinc",
