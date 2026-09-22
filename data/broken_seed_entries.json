@@ -156,12 +156,6 @@
     "error": "404_not_found (token likely wrong or company left Greenhouse)"
   },
   {
-    "company": "Zscaler",
-    "ats": "greenhouse",
-    "token": "zscaler",
-    "error": "request_failed: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)"
-  },
-  {
     "company": "Box",
     "ats": "greenhouse",
     "token": "box",
