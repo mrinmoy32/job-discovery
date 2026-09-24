@@ -2,6 +2,30 @@
   {
     "source": "greenhouse",
     "company": "GitLab",
+    "title": "Senior Frontend Engineer",
+    "location": "Bangalore, India",
+    "job_url": "https://job-boards.greenhouse.io/gitlab/jobs/8826920002",
+    "description_html": "",
+    "posted_at": "2026-09-24T01:24:21-04:00",
+    "external_id": "8826920002",
+    "matched_skills": [
+      "React",
+      "JavaScript",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "country_match": "India",
+    "visa_signal": "india_no_visa_needed",
+    "description_snippet": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.",
+    "contact_emails": [],
+    "contact_phones": [],
+    "has_named_contact": false,
+    "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+GitLab",
+    "discovered_at": "2026-09-24T09:24:49.085149+00:00"
+  },
+  {
+    "source": "greenhouse",
+    "company": "GitLab",
     "title": "Senior Frontend Engineer (Vue), Create:  Repository Management ",
     "location": "Remote, United Kingdom",
     "job_url": "https://job-boards.greenhouse.io/gitlab/jobs/8636539002",
@@ -19,7 +43,31 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+GitLab",
-    "discovered_at": "2026-09-23T09:24:42.964847+00:00"
+    "discovered_at": "2026-09-24T09:24:49.085149+00:00"
+  },
+  {
+    "source": "greenhouse",
+    "company": "GitLab",
+    "title": "Staff Frontend Engineer",
+    "location": "Bangalore, India",
+    "job_url": "https://job-boards.greenhouse.io/gitlab/jobs/8826965002",
+    "description_html": "",
+    "posted_at": "2026-09-24T01:45:23-04:00",
+    "external_id": "8826965002",
+    "matched_skills": [
+      "React",
+      "JavaScript",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "country_match": "India",
+    "visa_signal": "india_no_visa_needed",
+    "description_snippet": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.",
+    "contact_emails": [],
+    "contact_phones": [],
+    "has_named_contact": false,
+    "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+GitLab",
+    "discovered_at": "2026-09-24T09:24:49.085149+00:00"
   },
   {
     "source": "greenhouse",
@@ -41,7 +89,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Stripe",
-    "discovered_at": "2026-09-23T09:24:42.964847+00:00"
+    "discovered_at": "2026-09-24T09:24:49.085149+00:00"
   },
   {
     "source": "greenhouse",
@@ -50,7 +98,7 @@
     "location": "Remote - United States",
     "job_url": "https://job-boards.greenhouse.io/reddit/jobs/8194576",
     "description_html": "",
-    "posted_at": "2026-09-22T20:11:05-04:00",
+    "posted_at": "2026-09-23T20:16:38-04:00",
     "external_id": "8194576",
     "matched_skills": [
       "React",
@@ -64,7 +112,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
-    "discovered_at": "2026-09-23T09:24:42.964847+00:00"
+    "discovered_at": "2026-09-24T09:24:49.085149+00:00"
   },
   {
     "source": "greenhouse",
@@ -73,7 +121,7 @@
     "location": "Remote - United States",
     "job_url": "https://job-boards.greenhouse.io/reddit/jobs/8175520",
     "description_html": "",
-    "posted_at": "2026-09-22T20:11:08-04:00",
+    "posted_at": "2026-09-23T20:16:41-04:00",
     "external_id": "8175520",
     "matched_skills": [
       "React",
@@ -87,7 +135,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
-    "discovered_at": "2026-09-23T09:24:42.964847+00:00"
+    "discovered_at": "2026-09-24T09:24:49.085149+00:00"
   },
   {
     "source": "greenhouse",
@@ -110,7 +158,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
-    "discovered_at": "2026-09-23T09:24:42.964847+00:00"
+    "discovered_at": "2026-09-24T09:24:49.085149+00:00"
   },
   {
     "source": "greenhouse",
@@ -133,7 +181,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Databricks",
-    "discovered_at": "2026-09-23T09:24:42.964847+00:00"
+    "discovered_at": "2026-09-24T09:24:49.085149+00:00"
   },
   {
     "source": "greenhouse",
@@ -156,7 +204,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Databricks",
-    "discovered_at": "2026-09-23T09:24:42.964847+00:00"
+    "discovered_at": "2026-09-24T09:24:49.085149+00:00"
   },
   {
     "source": "greenhouse",
@@ -178,7 +226,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Okta",
-    "discovered_at": "2026-09-23T09:24:42.964847+00:00"
+    "discovered_at": "2026-09-24T09:24:49.085149+00:00"
   },
   {
     "source": "greenhouse",
@@ -201,7 +249,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Intercom",
-    "discovered_at": "2026-09-23T09:24:42.964847+00:00"
+    "discovered_at": "2026-09-24T09:24:49.085149+00:00"
   },
   {
     "source": "greenhouse",
@@ -225,7 +273,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Calendly",
-    "discovered_at": "2026-09-23T09:24:42.964847+00:00"
+    "discovered_at": "2026-09-24T09:24:49.085149+00:00"
   },
   {
     "source": "greenhouse",
@@ -248,7 +296,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Calendly",
-    "discovered_at": "2026-09-23T09:24:42.964847+00:00"
+    "discovered_at": "2026-09-24T09:24:49.085149+00:00"
   },
   {
     "source": "greenhouse",
@@ -272,6 +320,6 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Typeform",
-    "discovered_at": "2026-09-23T09:24:42.964847+00:00"
+    "discovered_at": "2026-09-24T09:24:49.085149+00:00"
   }
 ]
