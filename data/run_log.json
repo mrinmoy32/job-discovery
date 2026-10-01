@@ -1,7 +1,7 @@
 {
-  "run_started": "2026-09-30T10:36:45.182498+00:00",
-  "run_finished": "2026-09-30T10:39:22.340812+00:00",
-  "raw_jobs_fetched": 7976,
+  "run_started": "2026-10-01T11:04:25.647709+00:00",
+  "run_finished": "2026-10-01T11:07:10.368807+00:00",
+  "raw_jobs_fetched": 8005,
   "jobs_matched_filters": 13,
   "new_jobs_shown_today": 13,
   "broken_seed_entries": 35,
