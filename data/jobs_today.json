@@ -21,7 +21,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+GitLab",
-    "discovered_at": "2026-10-06T11:24:07.229824+00:00"
+    "discovered_at": "2026-10-07T11:12:28.515884+00:00"
   },
   {
     "source": "greenhouse",
@@ -43,7 +43,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+GitLab",
-    "discovered_at": "2026-10-06T11:24:07.229824+00:00"
+    "discovered_at": "2026-10-07T11:12:28.515884+00:00"
   },
   {
     "source": "greenhouse",
@@ -67,7 +67,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+GitLab",
-    "discovered_at": "2026-10-06T11:24:07.229824+00:00"
+    "discovered_at": "2026-10-07T11:12:28.515884+00:00"
   },
   {
     "source": "greenhouse",
@@ -89,7 +89,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Stripe",
-    "discovered_at": "2026-10-06T11:24:07.229824+00:00"
+    "discovered_at": "2026-10-07T11:12:28.515884+00:00"
   },
   {
     "source": "greenhouse",
@@ -98,7 +98,7 @@
     "location": "Remote - United States",
     "job_url": "https://job-boards.greenhouse.io/reddit/jobs/8194576",
     "description_html": "",
-    "posted_at": "2026-10-05T20:12:15-04:00",
+    "posted_at": "2026-10-07T01:51:28-04:00",
     "external_id": "8194576",
     "matched_skills": [
       "React",
@@ -112,7 +112,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
-    "discovered_at": "2026-10-06T11:24:07.229824+00:00"
+    "discovered_at": "2026-10-07T11:12:28.515884+00:00"
   },
   {
     "source": "greenhouse",
@@ -121,7 +121,7 @@
     "location": "Remote - United States",
     "job_url": "https://job-boards.greenhouse.io/reddit/jobs/8175520",
     "description_html": "",
-    "posted_at": "2026-10-05T20:12:17-04:00",
+    "posted_at": "2026-10-06T20:15:19-04:00",
     "external_id": "8175520",
     "matched_skills": [
       "React",
@@ -135,7 +135,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
-    "discovered_at": "2026-10-06T11:24:07.229824+00:00"
+    "discovered_at": "2026-10-07T11:12:28.515884+00:00"
   },
   {
     "source": "greenhouse",
@@ -158,30 +158,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Databricks",
-    "discovered_at": "2026-10-06T11:24:07.229824+00:00"
-  },
-  {
-    "source": "greenhouse",
-    "company": "Databricks",
-    "title": "Sr Full Stack Developer (AI Agents)",
-    "location": "Bengaluru, India",
-    "job_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8679982002",
-    "description_html": "",
-    "posted_at": "2026-10-06T06:50:06-04:00",
-    "external_id": "8679982002",
-    "matched_skills": [
-      "React",
-      "React.js",
-      "Node.js"
-    ],
-    "country_match": "India",
-    "visa_signal": "india_no_visa_needed",
-    "description_snippet": "<p><strong>GAQ226R75</strong></p> <p><strong>About the Role</strong></p> <p>We are looking for a <strong>Senior Full Stack Developer </strong>to design, build, and deploy modern, scalable AI agents and applications that leverage Large Language Models (LLMs). This role requires a strong focus on end-to-end agent development, including building a high-performance React frontend, designing the agenti",
-    "contact_emails": [],
-    "contact_phones": [],
-    "has_named_contact": false,
-    "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Databricks",
-    "discovered_at": "2026-10-06T11:24:07.229824+00:00"
+    "discovered_at": "2026-10-07T11:12:28.515884+00:00"
   },
   {
     "source": "greenhouse",
@@ -203,7 +180,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Okta",
-    "discovered_at": "2026-10-06T11:24:07.229824+00:00"
+    "discovered_at": "2026-10-07T11:12:28.515884+00:00"
   },
   {
     "source": "greenhouse",
@@ -227,7 +204,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Calendly",
-    "discovered_at": "2026-10-06T11:24:07.229824+00:00"
+    "discovered_at": "2026-10-07T11:12:28.515884+00:00"
   },
   {
     "source": "greenhouse",
@@ -250,7 +227,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Calendly",
-    "discovered_at": "2026-10-06T11:24:07.229824+00:00"
+    "discovered_at": "2026-10-07T11:12:28.515884+00:00"
   },
   {
     "source": "greenhouse",
@@ -272,7 +249,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Calendly",
-    "discovered_at": "2026-10-06T11:24:07.229824+00:00"
+    "discovered_at": "2026-10-07T11:12:28.515884+00:00"
   },
   {
     "source": "greenhouse",
@@ -296,6 +273,6 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Typeform",
-    "discovered_at": "2026-10-06T11:24:07.229824+00:00"
+    "discovered_at": "2026-10-07T11:12:28.515884+00:00"
   }
 ]
