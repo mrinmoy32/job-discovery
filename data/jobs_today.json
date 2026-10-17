@@ -21,7 +21,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+GitLab",
-    "discovered_at": "2026-10-16T09:09:21.233813+00:00"
+    "discovered_at": "2026-10-17T08:41:54.226773+00:00"
   },
   {
     "source": "greenhouse",
@@ -43,7 +43,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+GitLab",
-    "discovered_at": "2026-10-16T09:09:21.233813+00:00"
+    "discovered_at": "2026-10-17T08:41:54.226773+00:00"
   },
   {
     "source": "greenhouse",
@@ -67,7 +67,29 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+GitLab",
-    "discovered_at": "2026-10-16T09:09:21.233813+00:00"
+    "discovered_at": "2026-10-17T08:41:54.226773+00:00"
+  },
+  {
+    "source": "greenhouse",
+    "company": "Coinbase",
+    "title": "Senior Frontend Engineer, Portfolio",
+    "location": "Remote - USA",
+    "job_url": "https://www.coinbase.com/careers/positions/8285182?gh_jid=8285182",
+    "description_html": "",
+    "posted_at": "2026-10-16T13:04:18-04:00",
+    "external_id": "8285182",
+    "matched_skills": [
+      "React",
+      "TypeScript"
+    ],
+    "country_match": "Remote (unspecified)",
+    "visa_signal": "unclear",
+    "description_snippet": "<div class=\"content-intro\"><p>Ready to do the most impactful work of your career? At&nbsp;<a href=\"https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain&amp;utm_source=coinbase\">Coinbase</a>, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it\u2019s a place to be ",
+    "contact_emails": [],
+    "contact_phones": [],
+    "has_named_contact": false,
+    "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Coinbase",
+    "discovered_at": "2026-10-17T08:41:54.226773+00:00"
   },
   {
     "source": "greenhouse",
@@ -76,7 +98,7 @@
     "location": "Remote - United States",
     "job_url": "https://job-boards.greenhouse.io/reddit/jobs/8194576",
     "description_html": "",
-    "posted_at": "2026-10-15T20:12:45-04:00",
+    "posted_at": "2026-10-16T20:14:52-04:00",
     "external_id": "8194576",
     "matched_skills": [
       "React",
@@ -90,7 +112,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
-    "discovered_at": "2026-10-16T09:09:21.233813+00:00"
+    "discovered_at": "2026-10-17T08:41:54.226773+00:00"
   },
   {
     "source": "greenhouse",
@@ -99,7 +121,7 @@
     "location": "Remote - United States",
     "job_url": "https://job-boards.greenhouse.io/reddit/jobs/8175520",
     "description_html": "",
-    "posted_at": "2026-10-15T20:12:48-04:00",
+    "posted_at": "2026-10-16T20:14:53-04:00",
     "external_id": "8175520",
     "matched_skills": [
       "React",
@@ -113,7 +135,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
-    "discovered_at": "2026-10-16T09:09:21.233813+00:00"
+    "discovered_at": "2026-10-17T08:41:54.226773+00:00"
   },
   {
     "source": "greenhouse",
@@ -136,7 +158,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Databricks",
-    "discovered_at": "2026-10-16T09:09:21.233813+00:00"
+    "discovered_at": "2026-10-17T08:41:54.226773+00:00"
   },
   {
     "source": "greenhouse",
@@ -158,7 +180,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Okta",
-    "discovered_at": "2026-10-16T09:09:21.233813+00:00"
+    "discovered_at": "2026-10-17T08:41:54.226773+00:00"
   },
   {
     "source": "greenhouse",
@@ -182,7 +204,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Calendly",
-    "discovered_at": "2026-10-16T09:09:21.233813+00:00"
+    "discovered_at": "2026-10-17T08:41:54.226773+00:00"
   },
   {
     "source": "greenhouse",
@@ -205,7 +227,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Calendly",
-    "discovered_at": "2026-10-16T09:09:21.233813+00:00"
+    "discovered_at": "2026-10-17T08:41:54.226773+00:00"
   },
   {
     "source": "greenhouse",
@@ -227,7 +249,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Calendly",
-    "discovered_at": "2026-10-16T09:09:21.233813+00:00"
+    "discovered_at": "2026-10-17T08:41:54.226773+00:00"
   },
   {
     "source": "greenhouse",
@@ -251,6 +273,6 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Typeform",
-    "discovered_at": "2026-10-16T09:09:21.233813+00:00"
+    "discovered_at": "2026-10-17T08:41:54.226773+00:00"
   }
 ]
