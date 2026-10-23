@@ -1,10 +1,10 @@
 {
-  "run_started": "2026-10-22T09:31:21.514951+00:00",
-  "run_finished": "2026-10-22T09:34:09.741878+00:00",
-  "raw_jobs_fetched": 8068,
+  "run_started": "2026-10-23T09:27:32.721705+00:00",
+  "run_finished": "2026-10-23T09:30:16.371589+00:00",
+  "raw_jobs_fetched": 8067,
   "jobs_matched_filters": 11,
   "new_jobs_shown_today": 11,
-  "broken_seed_entries": 35,
+  "broken_seed_entries": 34,
   "html_source_warnings": [
     {
       "source": "wellfound:frontend-engineer",

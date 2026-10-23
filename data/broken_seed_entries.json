@@ -60,12 +60,6 @@
     "error": "404_not_found (token likely wrong or company left Greenhouse)"
   },
   {
-    "company": "Ramp",
-    "ats": "greenhouse",
-    "token": "ramp",
-    "error": "404_not_found (token likely wrong or company left Greenhouse)"
-  },
-  {
     "company": "ServiceTitan",
     "ats": "greenhouse",
     "token": "servicetitan",
