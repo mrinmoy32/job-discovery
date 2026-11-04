@@ -21,7 +21,7 @@
     "company": "Netlify",
     "ats": "lever",
     "token": "netlify",
-    "error": "http_502"
+    "error": "404_not_found (token likely wrong or company left Lever)"
   },
   {
     "company": "Plaid",
