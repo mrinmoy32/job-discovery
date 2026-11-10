@@ -1,54 +1,6 @@
 [
   {
     "source": "greenhouse",
-    "company": "GitLab",
-    "title": "Senior Frontend Engineer",
-    "location": "Bangalore, India",
-    "job_url": "https://job-boards.greenhouse.io/gitlab/jobs/8826920002",
-    "description_html": "",
-    "posted_at": "2026-11-06T15:25:07-05:00",
-    "external_id": "8826920002",
-    "matched_skills": [
-      "React",
-      "JavaScript",
-      "TypeScript",
-      "PostgreSQL"
-    ],
-    "country_match": "India",
-    "visa_signal": "india_no_visa_needed",
-    "description_snippet": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.",
-    "contact_emails": [],
-    "contact_phones": [],
-    "has_named_contact": false,
-    "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+GitLab",
-    "discovered_at": "2026-11-09T13:09:34.028148+00:00"
-  },
-  {
-    "source": "greenhouse",
-    "company": "GitLab",
-    "title": "Staff Frontend Engineer",
-    "location": "Bangalore, India",
-    "job_url": "https://job-boards.greenhouse.io/gitlab/jobs/8826965002",
-    "description_html": "",
-    "posted_at": "2026-11-06T15:25:07-05:00",
-    "external_id": "8826965002",
-    "matched_skills": [
-      "React",
-      "JavaScript",
-      "TypeScript",
-      "PostgreSQL"
-    ],
-    "country_match": "India",
-    "visa_signal": "india_no_visa_needed",
-    "description_snippet": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.",
-    "contact_emails": [],
-    "contact_phones": [],
-    "has_named_contact": false,
-    "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+GitLab",
-    "discovered_at": "2026-11-09T13:09:34.028148+00:00"
-  },
-  {
-    "source": "greenhouse",
     "company": "Coinbase",
     "title": "Senior Frontend Engineer, Portfolio",
     "location": "Remote - USA",
@@ -67,7 +19,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Coinbase",
-    "discovered_at": "2026-11-09T13:09:34.028148+00:00"
+    "discovered_at": "2026-11-10T12:50:28.484009+00:00"
   },
   {
     "source": "greenhouse",
@@ -90,7 +42,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
-    "discovered_at": "2026-11-09T13:09:34.028148+00:00"
+    "discovered_at": "2026-11-10T12:50:28.484009+00:00"
   },
   {
     "source": "greenhouse",
@@ -113,7 +65,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
-    "discovered_at": "2026-11-09T13:09:34.028148+00:00"
+    "discovered_at": "2026-11-10T12:50:28.484009+00:00"
   },
   {
     "source": "greenhouse",
@@ -136,7 +88,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
-    "discovered_at": "2026-11-09T13:09:34.028148+00:00"
+    "discovered_at": "2026-11-10T12:50:28.484009+00:00"
   },
   {
     "source": "greenhouse",
@@ -159,7 +111,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Databricks",
-    "discovered_at": "2026-11-09T13:09:34.028148+00:00"
+    "discovered_at": "2026-11-10T12:50:28.484009+00:00"
   },
   {
     "source": "greenhouse",
@@ -181,7 +133,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Okta",
-    "discovered_at": "2026-11-09T13:09:34.028148+00:00"
+    "discovered_at": "2026-11-10T12:50:28.484009+00:00"
   },
   {
     "source": "greenhouse",
@@ -203,6 +155,6 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Calendly",
-    "discovered_at": "2026-11-09T13:09:34.028148+00:00"
+    "discovered_at": "2026-11-10T12:50:28.484009+00:00"
   }
 ]
