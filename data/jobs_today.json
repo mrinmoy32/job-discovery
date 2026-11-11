@@ -19,7 +19,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Coinbase",
-    "discovered_at": "2026-11-10T12:50:28.484009+00:00"
+    "discovered_at": "2026-11-11T11:59:17.191279+00:00"
   },
   {
     "source": "greenhouse",
@@ -42,7 +42,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
-    "discovered_at": "2026-11-10T12:50:28.484009+00:00"
+    "discovered_at": "2026-11-11T11:59:17.191279+00:00"
   },
   {
     "source": "greenhouse",
@@ -65,7 +65,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
-    "discovered_at": "2026-11-10T12:50:28.484009+00:00"
+    "discovered_at": "2026-11-11T11:59:17.191279+00:00"
   },
   {
     "source": "greenhouse",
@@ -88,7 +88,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
-    "discovered_at": "2026-11-10T12:50:28.484009+00:00"
+    "discovered_at": "2026-11-11T11:59:17.191279+00:00"
   },
   {
     "source": "greenhouse",
@@ -111,7 +111,29 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Databricks",
-    "discovered_at": "2026-11-10T12:50:28.484009+00:00"
+    "discovered_at": "2026-11-11T11:59:17.191279+00:00"
+  },
+  {
+    "source": "greenhouse",
+    "company": "Okta",
+    "title": "Senior Software Engineer - Full Stack Developer",
+    "location": "Bengaluru, India",
+    "job_url": "https://www.okta.com/company/careers/opportunity/8358353?gh_jid=8358353",
+    "description_html": "",
+    "posted_at": "2026-11-11T02:15:00-05:00",
+    "external_id": "8358353",
+    "matched_skills": [
+      "React",
+      "JavaScript"
+    ],
+    "country_match": "India",
+    "visa_signal": "india_no_visa_needed",
+    "description_snippet": "<div class=\"content-intro\"><p><strong>Secure Every Identity, from AI to Human<br><br></strong>Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners ",
+    "contact_emails": [],
+    "contact_phones": [],
+    "has_named_contact": false,
+    "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Okta",
+    "discovered_at": "2026-11-11T11:59:17.191279+00:00"
   },
   {
     "source": "greenhouse",
@@ -133,7 +155,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Okta",
-    "discovered_at": "2026-11-10T12:50:28.484009+00:00"
+    "discovered_at": "2026-11-11T11:59:17.191279+00:00"
   },
   {
     "source": "greenhouse",
@@ -155,6 +177,6 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Calendly",
-    "discovered_at": "2026-11-10T12:50:28.484009+00:00"
+    "discovered_at": "2026-11-11T11:59:17.191279+00:00"
   }
 ]
