@@ -19,7 +19,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Coinbase",
-    "discovered_at": "2026-11-11T11:59:17.191279+00:00"
+    "discovered_at": "2026-11-12T13:01:17.155976+00:00"
   },
   {
     "source": "greenhouse",
@@ -42,7 +42,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
-    "discovered_at": "2026-11-11T11:59:17.191279+00:00"
+    "discovered_at": "2026-11-12T13:01:17.155976+00:00"
   },
   {
     "source": "greenhouse",
@@ -65,7 +65,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
-    "discovered_at": "2026-11-11T11:59:17.191279+00:00"
+    "discovered_at": "2026-11-12T13:01:17.155976+00:00"
   },
   {
     "source": "greenhouse",
@@ -88,7 +88,29 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Reddit",
-    "discovered_at": "2026-11-11T11:59:17.191279+00:00"
+    "discovered_at": "2026-11-12T13:01:17.155976+00:00"
+  },
+  {
+    "source": "greenhouse",
+    "company": "Databricks",
+    "title": "Senior Forward Deployed Engineer (Full Stack Engineers)",
+    "location": "London, United Kingdom",
+    "job_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8916552002",
+    "description_html": "",
+    "posted_at": "2026-11-12T05:17:51-05:00",
+    "external_id": "8916552002",
+    "matched_skills": [
+      "JavaScript",
+      "TypeScript"
+    ],
+    "country_match": "United Kingdom",
+    "visa_signal": "unclear",
+    "description_snippet": "<p><strong>Req ID: CSQ128R26</strong></p> <p><strong>Location: London, United Kingdom - Hybrid&nbsp;</strong></p> <p><strong>Job Role: Senior Forward Deployed Engineer (Full Stack Engineers)</strong></p> <p><strong>Recruiter: Dina Hussain</strong></p> <p>We\u2019re hiring for multiple roles within our FDE team.&nbsp;</p> <p>As a Forward Deployed Engineer (FDE), you will work with customers to build and",
+    "contact_emails": [],
+    "contact_phones": [],
+    "has_named_contact": false,
+    "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Databricks",
+    "discovered_at": "2026-11-12T13:01:17.155976+00:00"
   },
   {
     "source": "greenhouse",
@@ -111,7 +133,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Databricks",
-    "discovered_at": "2026-11-11T11:59:17.191279+00:00"
+    "discovered_at": "2026-11-12T13:01:17.155976+00:00"
   },
   {
     "source": "greenhouse",
@@ -133,7 +155,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Okta",
-    "discovered_at": "2026-11-11T11:59:17.191279+00:00"
+    "discovered_at": "2026-11-12T13:01:17.155976+00:00"
   },
   {
     "source": "greenhouse",
@@ -155,7 +177,7 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Okta",
-    "discovered_at": "2026-11-11T11:59:17.191279+00:00"
+    "discovered_at": "2026-11-12T13:01:17.155976+00:00"
   },
   {
     "source": "greenhouse",
@@ -177,6 +199,6 @@
     "contact_phones": [],
     "has_named_contact": false,
     "linkedin_recruiter_search": "https://www.linkedin.com/search/results/people/?keywords=recruiter+OR+%22talent+acquisition%22+OR+%22technical+recruiter%22+Calendly",
-    "discovered_at": "2026-11-11T11:59:17.191279+00:00"
+    "discovered_at": "2026-11-12T13:01:17.155976+00:00"
   }
 ]
