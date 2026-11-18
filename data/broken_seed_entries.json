@@ -189,7 +189,7 @@
     "company": "BetterUp",
     "ats": "lever",
     "token": "betterup",
-    "error": "404_not_found (token likely wrong or company left Lever)"
+    "error": "request_failed: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=15)"
   },
   {
     "company": "Perplexity",
